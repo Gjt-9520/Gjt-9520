@@ -1,5 +1,4 @@
-## 👋 Hello, I am Hugh 
-## 😎 [This is my Blog](https://markdown-blog-gjt.vercel.app/)
+👋 Hello, I am Hugh 😎 [This is my Blog](https://markdown-blog-gjt.vercel.app/) 😜
 <!--
 **Gjt-9520/Gjt-9520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
